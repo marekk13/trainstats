@@ -1,5 +1,5 @@
 # trainstats
-> A terminal application displaying data about delays of trains run by the Polish main railroad carrier - PKP Intercity.
+> A terminal application displaying data about delays of trains run by the main Polish railroad carrier - PKP Intercity.
 > Data sources are JSON files created by an automatically run script that scrapes the intercity.pl website.
 
 
